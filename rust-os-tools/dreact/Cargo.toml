@@ -1,0 +1,8 @@
+[package]
+name = "dreact"
+version = "1.0.2"
+edition = "2021"
+
+[dependencies]
+glob = "0.3"
+regex = "1"
