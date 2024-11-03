@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "/proc/kcore",
+    "size": 140737471594496
+  },
+  {
+    "path": "/opt/usbbkp/isos/ubuntustudio-22.04.1-dvd-amd64.iso",
+    "size": 4603684864
+  },
+  {
+    "path": "/opt/usbbkp/isos/kubuntu-22.04.1-desktop-amd64.iso",
+    "size": 3767502848
+  },
+  {
+    "path": "/opt/usbbkp/websites/wp.26_16247.2023-09-26_15-26-45.tar.gz",
+    "size": 2404566655
+  },
+  {
+    "path": "/swapfile",
+    "size": 2147483648
+  },
+  {
+    "path": "/home/mark/.local/share/Trash/files/Vídeos.zip",
+    "size": 877828731
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/MSSolutions/Curso Ventas/Capacitación Intensiva General.pptx",
+    "size": 697406160
+  },
+  {
+    "path": "/opt/usbbkp/websites/tiendaonline.moneys.today__2022-05-20T00_03_15+0000.tar.gz",
+    "size": 646888099
+  },
+  {
+    "path": "/var/lib/snapd/snaps/kate_184.snap",
+    "size": 580018176
+  },
+  {
+    "path": "/var/lib/snapd/snaps/kate_192.snap",
+    "size": 575537152
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-42-2204_176.snap",
+    "size": 529625088
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-42-2204_172.snap",
+    "size": 528642048
+  },
+  {
+    "path": "/home/mark/Descargas/Sin confirmar 664428.crdownload",
+    "size": 476770304
+  },
+  {
+    "path": "/opt/lampp/htdocs/shop_20240328-040900.zip",
+    "size": 473849615
+  },
+  {
+    "path": "/var/lib/snapd/snaps/kf5-5-104-qt-5-15-8-core22_9.snap",
+    "size": 470474752
+  },
+  {
+    "path": "/var/lib/snapd/snaps/kf5-5-104-qt-5-15-8-core22_7.snap",
+    "size": 470474752
+  },
+  {
+    "path": "/usr/local/lib/python3.8/dist-packages/tensorflow/python/_pywrap_tensorflow_internal.so",
+    "size": 467055328
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/LineageOS/Moto E LTE (E2 2015)/lineage-17.1-20210806-nightly-surnia-signed.zip",
+    "size": 465581286
+  },
+  {
+    "path": "/snap/polar-bookshelf/86/resources/app.asar",
+    "size": 425806965
+  },
+  {
+    "path": "/opt/usbbkp/isos/JammyPup32-22.04-241006.iso",
+    "size": 402653184
+  },
+  {
+    "path": "/home/mark/Descargas/phplab.zip",
+    "size": 391041531
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-3-38-2004_143.snap",
+    "size": 366682112
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-3-38-2004_140.snap",
+    "size": 366678016
+  },
+  {
+    "path": "/opt/microsoft/msedge/msedge",
+    "size": 335505704
+  },
+  {
+    "path": "/var/lib/snapd/snaps/code_174.snap",
+    "size": 331837440
+  },
+  {
+    "path": "/var/lib/snapd/snaps/code_173.snap",
+    "size": 331837440
+  },
+  {
+    "path": "/var/tmp/mkinitramfs-MAIN_2wTcwf",
+    "size": 330653696
+  },
+  {
+    "path": "/home/mark/.cargo/git/checkouts/polkadot-sdk-94df07da2390bde9/e020650/.git/objects/pack/pack-fe930888960ab94ce7e850d231afa8dcb7bc84e6.pack",
+    "size": 329348441
+  },
+  {
+    "path": "/home/mark/.cargo/git/db/polkadot-sdk-94df07da2390bde9/objects/pack/pack-fe930888960ab94ce7e850d231afa8dcb7bc84e6.pack",
+    "size": 329348441
+  },
+  {
+    "path": "/opt/usbbkp/weblab/3d/three.js/.git/objects/pack/pack-deeaa5c06af96b32ab8e7a612b42b3d5191f5e55.pack",
+    "size": 316422008
+  },
+  {
+    "path": "/opt/usbbkp/isos/vanilladpup-10.0.64-retro.iso",
+    "size": 300941312
+  },
+  {
+    "path": "/var/lib/snapd/snaps/firefox_5187.snap",
+    "size": 286883840
+  },
+  {
+    "path": "/var/lib/snapd/snaps/firefox_5091.snap",
+    "size": 285192192
+  },
+  {
+    "path": "/opt/brave.com/brave/brave",
+    "size": 274857576
+  },
+  {
+    "path": "/home/mark/code/nodejs/iron/node-v18.16.0-linux-x64.zip",
+    "size": 272007102
+  },
+  {
+    "path": "/sys/devices/pci0000:00/0000:00:02.0/resource2_wc",
+    "size": 268435456
+  },
+  {
+    "path": "/sys/devices/pci0000:00/0000:00:02.0/resource2",
+    "size": 268435456
+  },
+  {
+    "path": "/home/mark/Imágenes/Imágenesbkp20240922.zip",
+    "size": 258324249
+  },
+  {
+    "path": "/opt/usbbkp/weblab/miproyecto.zip",
+    "size": 248410291
+  },
+  {
+    "path": "/opt/google/chrome/chrome",
+    "size": 246287488
+  },
+  {
+    "path": "/home/mark/Documentos/MK-Libros/3D Design/blender_manual_epub.zip",
+    "size": 233018709
+  },
+  {
+    "path": "/opt/usbbkp/MK-Libros/3D Design/blender_manual_epub.zip",
+    "size": 233018709
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/opera/opera",
+    "size": 229700592
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-3-34-1804_93.snap",
+    "size": 228999168
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-3-34-1804_90.snap",
+    "size": 228999168
+  },
+  {
+    "path": "/var/lib/clamav/daily.cld",
+    "size": 204065792
+  },
+  {
+    "path": "/opt/usbbkp/websites/backup-5.13.2022_17-45-00_sanabriahnos.tar.gz",
+    "size": 186810663
+  },
+  {
+    "path": "/usr/share/discord/Discord",
+    "size": 185039744
+  },
+  {
+    "path": "/snap/kate/192/usr/lib/x86_64-linux-gnu/libQt6WebEngineCore.so.6.7.2",
+    "size": 184813920
+  },
+  {
+    "path": "/snap/kate/184/usr/lib/x86_64-linux-gnu/libQt6WebEngineCore.so.6.7.2",
+    "size": 184813920
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/50615c9386288fde/mapport.ipch",
+    "size": 184295424
+  },
+  {
+    "path": "/snap/code/173/usr/share/code/code",
+    "size": 177736952
+  },
+  {
+    "path": "/snap/code/174/usr/share/code/code",
+    "size": 177736952
+  },
+  {
+    "path": "/home/mark/Imágenes/cryptoart.zip",
+    "size": 177457153
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/catcoin/catcoin-new/.git/objects/pack/pack-8348452f47e42bdd6d34fcdcff54f340ccbe2cc0.pack",
+    "size": 177305221
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv.zip",
+    "size": 175631514
+  },
+  {
+    "path": "/home/mark/.config/Code/User/workspaceStorage/931ceb88f65e7820644603a54dc444f4/ms-vscode.cpptools/.browse.VC.db",
+    "size": 173723648
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-3-28-1804_194.snap",
+    "size": 172830720
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gnome-3-28-1804_198.snap",
+    "size": 172830720
+  },
+  {
+    "path": "/var/lib/snapd/snaps/polar-bookshelf_86.snap",
+    "size": 172122112
+  },
+  {
+    "path": "/home/mark/Descargas/telegram/Telegram",
+    "size": 171486808
+  },
+  {
+    "path": "/var/lib/clamav/main.cvd",
+    "size": 170479789
+  },
+  {
+    "path": "/home/mark/code/nodejs/solana-pay/solana-pay.zip",
+    "size": 165648890
+  },
+  {
+    "path": "/home/mark/code/python/imgprocessing/neural-style-tf.zip",
+    "size": 163286421
+  },
+  {
+    "path": "/opt/usbbkp/nftlab/neural-style-tf.zip",
+    "size": 163286421
+  },
+  {
+    "path": "/snap/thunderbird/546/usr/lib/thunderbird/libxul.so",
+    "size": 160280912
+  },
+  {
+    "path": "/snap/thunderbird/532/usr/lib/thunderbird/libxul.so",
+    "size": 158912800
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libQt6WebEngineCore.so.6.4.2",
+    "size": 157702080
+  },
+  {
+    "path": "/var/lib/snapd/snaps/thunderbird_546.snap",
+    "size": 157593600
+  },
+  {
+    "path": "/var/lib/snapd/snaps/thunderbird_532.snap",
+    "size": 157155328
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-musl-14.2.13-df5ca922fa1e1ee81b15a06a2d3d3ace0efd2bd7-integrity/node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node",
+    "size": 156809432
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-musl-14.2.14-1565caf6fa77c3280d8b05ffc8c542ff144a4855-integrity/node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node",
+    "size": 156809432
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node",
+    "size": 156809432
+  },
+  {
+    "path": "/usr/share/sounds/sf2/FluidR3_GM.sf2",
+    "size": 148398306
+  },
+  {
+    "path": "/snap/firefox/5187/usr/lib/firefox/libxul.so",
+    "size": 145683304
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.81-x86_64-unknown-linux-gnu/lib/libLLVM.so.18.1-rust-1.81.0-stable",
+    "size": 145281328
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/libLLVM.so.18.1-rust-1.81.0-stable",
+    "size": 145281328
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.80.0-x86_64-unknown-linux-gnu/lib/libLLVM.so.18.1-rust-1.80.0-stable",
+    "size": 145217648
+  },
+  {
+    "path": "/usr/lib/jvm/java-11-openjdk-amd64/lib/modules",
+    "size": 142807029
+  },
+  {
+    "path": "/snap/firefox/5091/usr/lib/firefox/libxul.so",
+    "size": 142738144
+  },
+  {
+    "path": "/usr/lib/jvm/java-21-openjdk-amd64/lib/modules",
+    "size": 140514416
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-musl-14.2.14-da2ae16a24bb2b2a46447154e95da85c557ab09a-integrity/node_modules/@next/swc-linux-arm64-musl/next-swc.linux-arm64-musl.node",
+    "size": 140311128
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-musl-14.2.13-b13180645865b120591db2f1e831743ebc02ab36-integrity/node_modules/@next/swc-linux-arm64-musl/next-swc.linux-arm64-musl.node",
+    "size": 140311128
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/discord/Discord/Discord",
+    "size": 138952064
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-x64-msvc-14.2.14-9d6446b3a8d5e67e199049d59ce7c0b8bd33ab51-integrity/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node",
+    "size": 135857664
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-x64-msvc-14.2.13-5a920eea82a58affa6146192586716cec6c87fed-integrity/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node",
+    "size": 135857664
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/7/usr/lib/x86_64-linux-gnu/libQt5WebEngineCore.so.5.15.11",
+    "size": 135673624
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/9/usr/lib/x86_64-linux-gnu/libQt5WebEngineCore.so.5.15.11",
+    "size": 135673624
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libQt5WebEngineCore.so.5.15.16",
+    "size": 133850120
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/client-production/10.pack",
+    "size": 132145836
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-gnu-14.2.13-8cb8480dfeee512648e4e08c2095aac0461b876f-integrity/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node",
+    "size": 131406240
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-gnu-14.2.14-635c62109b9cf0464e6322955a36931ebb9ed3e2-integrity/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node",
+    "size": 131406240
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node",
+    "size": 131406240
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-x64-msvc-13.4.4-faab69239f8a9d0be7cd473e65f5a07735ef7b0e-integrity/node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node",
+    "size": 131066368
+  },
+  {
+    "path": "/opt/lampp/htdocs/shop/public.zip",
+    "size": 130537502
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.81-x86_64-unknown-linux-gnu/lib/librustc_driver-3f4ebb066deec3c0.so",
+    "size": 130417552
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/librustc_driver-3f4ebb066deec3c0.so",
+    "size": 130417552
+  },
+  {
+    "path": "/usr/lib/jvm/java-17-openjdk-amd64/lib/modules",
+    "size": 128439684
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-gnu-13.4.4-bd42590950a01957952206f89cf5622e7c9e4196-integrity/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node",
+    "size": 128368760
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-musl-13.4.4-907d81feb1abec3daec0ecb61e3f39b56e7aeafe-integrity/node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node",
+    "size": 128208792
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/client-production/3.pack",
+    "size": 125118982
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/cdf9e9a35090ef321890dbb91561ea46/kotlin-compiler-embeddable-1.5.10.jar",
+    "size": 124753429
+  },
+  {
+    "path": "/opt/usbbkp/Videos/macri-le-da-vuelta-en-el-obelisco.mp4",
+    "size": 124482385
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libLLVM-17.so.1",
+    "size": 123671544
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.80.0-x86_64-unknown-linux-gnu/lib/librustc_driver-198d7b2c3cb4a0cb.so",
+    "size": 123566800
+  },
+  {
+    "path": "/usr/lib/llvm-18/lib/libLLVM.so.1",
+    "size": 123215144
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libLLVM-16.so.1",
+    "size": 123006304
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/ms-vscode.cpptools-1.22.10-linux-x64/LLVM/bin/clang-tidy",
+    "size": 122203984
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/videos/20220830_140454.mp4",
+    "size": 121658688
+  },
+  {
+    "path": "/home/mark/code/nodejs/solana-pay/solpay.zip",
+    "size": 120734993
+  },
+  {
+    "path": "/opt/lampp/lib/instantclient-11.2.0.3.0/libociei.so",
+    "size": 118398260
+  },
+  {
+    "path": "/home/mark/Descargas/ttcoin/TurtleCoin.Wallet-3.4.9.AppImage",
+    "size": 117613254
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 117234288
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-x64-14.2.13-1d4821d54bb01dacc6a6c32408f8468a4f4af269-integrity/node_modules/@next/swc-darwin-x64/next-swc.darwin-x64.node",
+    "size": 116948928
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-x64-14.2.14-25800213c4dc0f8cd765c88073d28a3144698e31-integrity/node_modules/@next/swc-darwin-x64/next-swc.darwin-x64.node",
+    "size": 116948928
+  },
+  {
+    "path": "/snap/kate/192/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 116869584
+  },
+  {
+    "path": "/snap/kate/184/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 116869584
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/7/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 116869584
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/9/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 116869584
+  },
+  {
+    "path": "/snap/gnome-42-2204/176/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 116869584
+  },
+  {
+    "path": "/snap/gnome-42-2204/172/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1",
+    "size": 116869584
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-gnu-14.2.14-9c66bd1287d0c3633e7bf354f9c01e1b79747615-integrity/node_modules/@next/swc-linux-arm64-gnu/next-swc.linux-arm64-gnu.node",
+    "size": 115591288
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-gnu-14.2.13-79d9af8d3408df9990c8911889eca1ca6a308f19-integrity/node_modules/@next/swc-linux-arm64-gnu/next-swc.linux-arm64-gnu.node",
+    "size": 115591288
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-gnu-13.4.4-f2e071f38e8a6cdadf507cc5d28956f73360d064-integrity/node_modules/@next/swc-linux-arm64-gnu/next-swc.linux-arm64-gnu.node",
+    "size": 115539736
+  },
+  {
+    "path": "/usr/local/cudo-miner/cudo-miner-desktop",
+    "size": 115420464
+  },
+  {
+    "path": "/snap/polar-bookshelf/86/polar-bookshelf.bin",
+    "size": 115346640
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-musl-13.4.4-23bf75c544e54562bc24ec1be036e4bd9cf89e2c-integrity/node_modules/@next/swc-linux-arm64-musl/next-swc.linux-arm64-musl.node",
+    "size": 115126088
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-arm64-14.2.14-6dde2dac699dfe948b527385f2b350b3151989f4-integrity/node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node",
+    "size": 114963832
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-arm64-14.2.13-76f08d78360c4d27d444df7f35a56f59a48f4808-integrity/node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node",
+    "size": 114963832
+  },
+  {
+    "path": "/home/mark/.local/share/torbrowser/tbb/x86_64/tor-browser_en-US/Browser/libxul.so",
+    "size": 114763328
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/redhat.java-1.35.1-linux-x64",
+    "size": 113719358
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/7/usr/lib/x86_64-linux-gnu/libLLVM-14.so.1",
+    "size": 113578840
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/9/usr/lib/x86_64-linux-gnu/libLLVM-14.so.1",
+    "size": 113578840
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-arm64-13.4.4-8c14083c2478e2a9a8d140cce5900f76b75667ff-integrity/node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node",
+    "size": 112430392
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libLLVM-14.so.1",
+    "size": 109847696
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core_17200.snap",
+    "size": 109252608
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core_16928.snap",
+    "size": 109043712
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.22.10-linux-x64",
+    "size": 108787204
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-x64-13.4.4-5fe01c65c80fcb833c8789fd70f074ea99893864-integrity/node_modules/@next/swc-darwin-x64/next-swc.darwin-x64.node",
+    "size": 108629264
+  },
+  {
+    "path": "/home/mark/Descargas/discord-0.0.72.deb",
+    "size": 106461974
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libgsdk-57e04f1ce1dd30d4.rlib",
+    "size": 105398666
+  },
+  {
+    "path": "/home/mark/.config/Code/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/canvas/build/Release/librsvg-2.so.2",
+    "size": 105062504
+  },
+  {
+    "path": "/home/mark/Imágenes/Imágenes.zip",
+    "size": 104052267
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-arm64-msvc-13.4.4-1d754d2bb10bdf9907c0acc83711438697c3b5fe-integrity/node_modules/@next/swc-win32-arm64-msvc/next-swc.win32-arm64-msvc.node",
+    "size": 103826944
+  },
+  {
+    "path": "/home/mark/Descargas/discord/discord-inst.deb",
+    "size": 103057530
+  },
+  {
+    "path": "/home/mark/.gradle/wrapper/dists/gradle-6.7.1-bin/bwlcbys1h7rz3272sye1xwiv6/gradle-6.7.1-bin.zip",
+    "size": 102842885
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/client-production/9.pack",
+    "size": 102575246
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-arm64-msvc-14.2.13-8a7db6e71f526212587975f743b28e4d1cb829d1-integrity/node_modules/@next/swc-win32-arm64-msvc/next-swc.win32-arm64-msvc.node",
+    "size": 101998592
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-arm64-msvc-14.2.14-8df4feb3c9280155e9299f3cdfa32f3cface336a-integrity/node_modules/@next/swc-win32-arm64-msvc/next-swc.win32-arm64-msvc.node",
+    "size": 101998080
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v18.16.0/lib/node_modules/ironfish/node_modules/@ironfish/rust-nodejs-linux-x64-gnu/ironfish-rust-nodejs.linux-x64-gnu.node",
+    "size": 100476816
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v18.16.0/lib/node_modules/ironfish/node_modules/@ironfish/rust-nodejs-linux-x64-musl/ironfish-rust-nodejs.linux-x64-musl.node",
+    "size": 100456840
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-ia32-msvc-13.4.4-77b2c7f7534b675d46e46301869e08d504d23956-integrity/node_modules/@next/swc-win32-ia32-msvc/next-swc.win32-ia32-msvc.node",
+    "size": 99185664
+  },
+  {
+    "path": "/home/mark/Escritorio/mto/LineageOS/moto e WPMan/Camera/VID_20210410_190106284.mp4",
+    "size": 98606714
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v20.13.0/bin/node",
+    "size": 98015128
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/catcoin/catcoin-new/depends/sources/boost_1_70_0.tar.bz2",
+    "size": 97887058
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gtk-common-themes_1535.snap",
+    "size": 96141312
+  },
+  {
+    "path": "/opt/usbbkp/solana/tk-creator/Token-Creator/.next/cache/webpack/client-production/0.pack",
+    "size": 95605630
+  },
+  {
+    "path": "/snap/code/173/usr/lib/x86_64-linux-gnu/libLLVM-12.so.1",
+    "size": 95395184
+  },
+  {
+    "path": "/snap/code/174/usr/lib/x86_64-linux-gnu/libLLVM-12.so.1",
+    "size": 95395184
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/client-production/18.pack",
+    "size": 95170955
+  },
+  {
+    "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/wasm-projects/debug/debug/build/hello-world-9988b54efe9da891/build_script_build-9988b54efe9da891",
+    "size": 94937504
+  },
+  {
+    "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/wasm-projects/debug/debug/build/hello-world-9988b54efe9da891/build-script-build",
+    "size": 94937504
+  },
+  {
+    "path": "/usr/local/share/gcm-core/GitHub.UI",
+    "size": 94604608
+  },
+  {
+    "path": "/usr/local/share/gcm-core/Atlassian.Bitbucket.UI",
+    "size": 94556176
+  },
+  {
+    "path": "/usr/local/share/gcm-core/GitLab.UI",
+    "size": 94537024
+  },
+  {
+    "path": "/usr/lib/llvm-16/bin/llvm-exegesis",
+    "size": 94024952
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-ia32-msvc-14.2.13-6aa664f36f2d70c5ae6ffcbbc56784d33f24522d-integrity/node_modules/@next/swc-win32-ia32-msvc/next-swc.win32-ia32-msvc.node",
+    "size": 93952000
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-ia32-msvc-14.2.14-1f0a2bafbb63147c8db102ca1524db9ffa959d0c-integrity/node_modules/@next/swc-win32-ia32-msvc/next-swc.win32-ia32-msvc.node",
+    "size": 93952000
+  },
+  {
+    "path": "/usr/local/android-studio/lib/platform-impl.jar",
+    "size": 93900517
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/client-production/13.pack",
+    "size": 93618935
+  },
+  {
+    "path": "/usr/lib/llvm-18/bin/llvm-exegesis",
+    "size": 93099272
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/7.pack",
+    "size": 92676813
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/vadimcn.vscode-lldb-1.11.0-linux-x64/lldb/lib/liblldb.so",
+    "size": 92158000
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v18.17.0/bin/node",
+    "size": 92146056
+  },
+  {
+    "path": "/var/lib/snapd/snaps/awt-graphics_1.snap",
+    "size": 91643904
+  },
+  {
+    "path": "/snap/gnome-3-38-2004/143/usr/lib/x86_64-linux-gnu/libLLVM-12.so.1",
+    "size": 91489024
+  },
+  {
+    "path": "/snap/gnome-3-38-2004/140/usr/lib/x86_64-linux-gnu/libLLVM-12.so.1",
+    "size": 91489024
+  },
+  {
+    "path": "/usr/local/android-studio/bin/lldb/lib64/liblldb.so.11git",
+    "size": 91310336
+  },
+  {
+    "path": "/home/mark/code/nodejs/solana-pay/.next/cache/webpack/client-development/0.pack",
+    "size": 90994305
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v18.16.0/bin/node",
+    "size": 90940576
+  },
+  {
+    "path": "/home/mark/code/nodejs/iron/node-v18.16.0-linux-x64/bin/node",
+    "size": 90940576
+  },
+  {
+    "path": "/opt/usbbkp/nftlab/neural-style-tf/.git/objects/pack/pack-45d05b4a4547f6824e8ab6a8b9931f87914a60df.pack",
+    "size": 89374984
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/vadimcn.vscode-lldb-1.9.2/lldb/lib/liblldb.so",
+    "size": 89305768
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/vadimcn.vscode-lldb-1.10.0/lldb/lib/liblldb.so",
+    "size": 88676488
+  },
+  {
+    "path": "/usr/lib/libreoffice/program/libmergedlo.so",
+    "size": 88528576
+  },
+  {
+    "path": "/opt/usbbkp/Videos/Macri-Asume-10-Dic-2015.mp4",
+    "size": 86396818
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/b3/29/94103b9c7213cb6a436527fbe3765ffe3e32c7e4bbb04be56c4866a59d301e88c2fac79ebb14622aa7e3a41d0cf2eb2eec4e523d3b1a517a937f45b2fb40",
+    "size": 86114753
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/a7/b5/0843162c1edfcd955bbc2140fb1c26c5c64f5674591543a95069217304e6f8b3ae6ac7d2514594bae0f7f809ace7c50cf0e0c3f9edb40508e14565ec73a5",
+    "size": 85975246
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/2f/33/ad08165c89488147d5b3566c49aea317740a84b5c1c6d955e113f8bcbbdf4a2f5a5b66a15fa401ff1bd2fce68471c315a49f05e28e9a0f2bb6220439b231",
+    "size": 85888081
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/05/4e/d68b5e8d6d66efa834ae107bba1b04d076a080d248ab597876794ef1cc57aa7105a12868f9246e7c5ffd6de68404033fb7f63932947f5f52b0ab2aec8a98",
+    "size": 85630949
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/4f/68/7ba64790bb9cfae6831b4438a8a90accc40d8e0b5ae63563aa51ba78c810da316551534868fdb41aca91aa9860b29bc6a23556cb3288eee8de94bb99d4fb",
+    "size": 85461149
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gtk-common-themes_1534.snap",
+    "size": 85209088
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/react-icons-npm-5.2.1-e27cbb9ccf-10c0.zip",
+    "size": 85069852
+  },
+  {
+    "path": "/home/mark/.cache/torbrowser/download/tor-browser-linux64-10.5.4_en-US.tar.xz",
+    "size": 83595212
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/eaf8065b743606f3c0710b4da88c8070/android.jar",
+    "size": 82989710
+  },
+  {
+    "path": "/snap/thunderbird/546/usr/lib/thunderbird/omni.ja",
+    "size": 82782859
+  },
+  {
+    "path": "/snap/thunderbird/532/usr/lib/thunderbird/omni.ja",
+    "size": 82648483
+  },
+  {
+    "path": "/home/mark/code/web/ss/gear-f/dapps/.git/objects/pack/pack-236f008c085ef2c2a72770acdb8bb7c7a049ee54.pack",
+    "size": 82581884
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/videos/20220831_213020.mp4",
+    "size": 82507373
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/android/lib/android.jar",
+    "size": 82435463
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/o_e64e618a522710b8fee7df987a0d509f/android.jar",
+    "size": 82435463
+  },
+  {
+    "path": "/opt/usbbkp/weblab/miproyecto/node",
+    "size": 81244376
+  },
+  {
+    "path": "/opt/usbbkp/weblab/miproyecto/noderun",
+    "size": 81244376
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v16.15.0/bin/node",
+    "size": 81175688
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.1.so.0.16.3",
+    "size": 79533432
+  },
+  {
+    "path": "/home/mark/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/7fa6b77/.git/objects/pack/pack-2d737d41b272fa3cd65a01a7ec91503647980152.pack",
+    "size": 79299719
+  },
+  {
+    "path": "/home/mark/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/a25a431/.git/objects/pack/pack-2d737d41b272fa3cd65a01a7ec91503647980152.pack",
+    "size": 79299719
+  },
+  {
+    "path": "/home/mark/.cargo/git/db/gear-bdc2b7d48ef3acbd/objects/pack/pack-2d737d41b272fa3cd65a01a7ec91503647980152.pack",
+    "size": 79299719
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/79cd5f900a263e27f15c3a901235fac1/gradle-api-impldep-6.5.jar",
+    "size": 78708433
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.68.7",
+    "size": 78475520
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libwebkitgtk-6.0.so.4.10.3",
+    "size": 78124408
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core22_1621.snap",
+    "size": 77852672
+  },
+  {
+    "path": "/snap/firefox/5187/usr/lib/firefox/geckodriver",
+    "size": 77701816
+  },
+  {
+    "path": "/opt/lampp/var/mysql/ibdata1",
+    "size": 77594624
+  },
+  {
+    "path": "/snap/firefox/5091/usr/lib/firefox/geckodriver",
+    "size": 77582768
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core22_1663.snap",
+    "size": 77463552
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/zips/discord-0.0.18.tar.gz",
+    "size": 77398558
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/videos/binance-claim.mp4",
+    "size": 77283516
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/server-production/18.pack",
+    "size": 77195183
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/66e70b65e0584b2b/bech32.ipch",
+    "size": 76767232
+  },
+  {
+    "path": "/snap/heroku/4092/bin/node",
+    "size": 75425192
+  },
+  {
+    "path": "/home/mark/.config/google-chrome/optimization_guide_model_store/40/2C774BDF140B4485/DDC315443B519925/ts.bin",
+    "size": 74854892
+  },
+  {
+    "path": "/snap/gnome-42-2204/176/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.1.so.0.12.8",
+    "size": 74786624
+  },
+  {
+    "path": "/snap/gnome-42-2204/172/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.1.so.0.12.6",
+    "size": 74745600
+  },
+  {
+    "path": "/snap/gnome-42-2204/176/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.67.8",
+    "size": 74713064
+  },
+  {
+    "path": "/snap/gnome-42-2204/172/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.67.6",
+    "size": 74667944
+  },
+  {
+    "path": "/home/mark/Escritorio/mto/LineageOS/moto e WPMan/Camera/VID_20210410_182559054.mp4",
+    "size": 74101200
+  },
+  {
+    "path": "/snap/gnome-3-34-1804/93/usr/lib/x86_64-linux-gnu/libLLVM-10.so.1",
+    "size": 74037336
+  },
+  {
+    "path": "/snap/gnome-3-34-1804/90/usr/lib/x86_64-linux-gnu/libLLVM-10.so.1",
+    "size": 74037336
+  },
+  {
+    "path": "/snap/gnome-3-28-1804/198/usr/lib/x86_64-linux-gnu/libLLVM-10.so.1",
+    "size": 74037336
+  },
+  {
+    "path": "/snap/gnome-3-28-1804/194/usr/lib/x86_64-linux-gnu/libLLVM-10.so.1",
+    "size": 74037336
+  },
+  {
+    "path": "/home/mark/.config/discord/0.0.72/modules/discord_voice/discord_voice.node",
+    "size": 73851280
+  },
+  {
+    "path": "/home/mark/apps/treal/repositorio/TREAL/training/samples/treal-w.zip",
+    "size": 73744760
+  },
+  {
+    "path": "/home/mark/apps/treal/repositorio/TREAL/training/mvp/frontend-app/treal-w.zip",
+    "size": 73744760
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w.zip",
+    "size": 73744760
+  },
+  {
+    "path": "/var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_noble_universe_binary-amd64_Packages",
+    "size": 73379142
+  },
+  {
+    "path": "/home/mark/apps/treal/repositorio/TREAL/.git/objects/ac/5a5151738196b58b322ff2c762e21d1ea167a5",
+    "size": 72874242
+  },
+  {
+    "path": "/home/mark/Vídeos/DomoAI-video-Mobile-Guide.mp4",
+    "size": 72863964
+  },
+  {
+    "path": "/opt/usbbkp/nftlab/Neural-Style-Transfer/.git/objects/pack/pack-16faad6ff63dc72e78b8cf6d34c9272bdb149cdf.pack",
+    "size": 71498597
+  },
+  {
+    "path": "/home/mark/Imágenes/stgc.zip",
+    "size": 71174175
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libLLVM-9.so.1",
+    "size": 69224280
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.3.2",
+    "size": 68159783
+  },
+  {
+    "path": "/usr/local/share/gcm-core/git-credential-manager-core",
+    "size": 67313818
+  },
+  {
+    "path": "/boot/initrd.img-6.8.0-47-lowlatency",
+    "size": 67111408
+  },
+  {
+    "path": "/var/log/journal/5b5e8b3dfc3a4586a31998c3687139af/user-1000@661865f7c62e4cd3af127120a357c8f4-000000000011cb7a-00062497d9a88429.journal",
+    "size": 67108864
+  },
+  {
+    "path": "/var/log/journal/5b5e8b3dfc3a4586a31998c3687139af/user-1000@7aaac336808d4c88870b9874c14db4cb-000000000017715c-000625560c032304.journal",
+    "size": 67108864
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core20_2379.snap",
+    "size": 67080192
+  },
+  {
+    "path": "/boot/initrd.img-6.8.0-45-lowlatency",
+    "size": 67051842
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/typescript-patch-32ada147aa-10c0.zip",
+    "size": 66951667
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/typescript-npm-4.9.5-6427b65ee6-10c0.zip",
+    "size": 66870874
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core20_2434.snap",
+    "size": 66789376
+  },
+  {
+    "path": "/snap/gnome-3-38-2004/143/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.57.8",
+    "size": 66124600
+  },
+  {
+    "path": "/snap/gnome-3-38-2004/140/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.57.8",
+    "size": 66124600
+  },
+  {
+    "path": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar",
+    "size": 65656142
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-b0377bf77ca56ca3db7a339f69f8e8ccb1433904/solana-release/bin/solana-validator",
+    "size": 65648104
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/solana-validator",
+    "size": 65637016
+  },
+  {
+    "path": "/snap/awt-graphics/1/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar",
+    "size": 65240424
+  },
+  {
+    "path": "/usr/lib/llvm-18/lib/libclang-cpp.so.18.1",
+    "size": 64796088
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/perf-libs/solana-perf.tgz",
+    "size": 64391893
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/perf-libs/solana-perf.tgz",
+    "size": 64391893
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-b0377bf77ca56ca3db7a339f69f8e8ccb1433904/solana-release/bin/perf-libs/solana-perf.tgz",
+    "size": 64391893
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/perf-libs/solana-perf.tgz",
+    "size": 64391893
+  },
+  {
+    "path": "/home/mark/Escritorio/code/mkshop.zip",
+    "size": 64343403
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/solana-validator",
+    "size": 63819584
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/solana-validator",
+    "size": 63471944
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/5.pack",
+    "size": 63369962
+  },
+  {
+    "path": "/home/mark/.config/google-chrome/Profile 6/IndexedDB/chrome-extension_aeachknmefphepccionboohckonoeemg_0.indexeddb.leveldb/MANIFEST-000263",
+    "size": 62919541
+  },
+  {
+    "path": "/usr/lib/llvm-16/lib/libclang-cpp.so.16",
+    "size": 61988336
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/java/lib/java-impl.jar",
+    "size": 60893949
+  },
+  {
+    "path": "/snap/awt-graphics/1/usr/lib/x86_64-linux-gnu/libLLVM-6.0.so.1",
+    "size": 60712920
+  },
+  {
+    "path": "/usr/local/cudo-miner/cudo-miner-core",
+    "size": 60590952
+  },
+  {
+    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/SP/SP.zip",
+    "size": 60445179
+  },
+  {
+    "path": "/usr/local/android-studio/jre/lib/modules",
+    "size": 60128480
+  },
+  {
+    "path": "/home/mark/.config/variety/Favorites/sol3048curiosityBonoraFaccin.jpg",
+    "size": 59669876
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-b0377bf77ca56ca3db7a339f69f8e8ccb1433904/solana-release/bin/solana-test-validator",
+    "size": 59462120
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/solana-test-validator",
+    "size": 59449640
+  },
+  {
+    "path": "/var/log/journal/5b5e8b3dfc3a4586a31998c3687139af/user-1000@6782894dc6ef4200961a39af2d345cd6-00000000001a6958-000625a4f63107d5.journal",
+    "size": 58720256
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core18_2829.snap",
+    "size": 58363904
+  },
+  {
+    "path": "/var/lib/snapd/snaps/core18_2846.snap",
+    "size": 58052608
+  },
+  {
+    "path": "/usr/lib/llvm-14/lib/libclang-cpp.so.14",
+    "size": 58016848
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/solana-test-validator",
+    "size": 57770832
+  },
+  {
+    "path": "/home/mark/Descargas/telegram/tsetup.5.2.3.tar.xz",
+    "size": 57653472
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/solana-test-validator",
+    "size": 57145984
+  },
+  {
+    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/aeachknmefphepccionboohckonoeemg_1.d3653b36320d86a83e4d1080dd4993387452c2db51aae22560223a11c13256ef",
+    "size": 56917856
+  },
+  {
+    "path": "/var/cache/apt/pkgcache.bin",
+    "size": 56252121
+  },
+  {
+    "path": "/snap/gnome-3-34-1804/93/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.53.5",
+    "size": 55891096
+  },
+  {
+    "path": "/snap/gnome-3-34-1804/90/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.53.5",
+    "size": 55891096
+  },
+  {
+    "path": "/snap/gnome-3-28-1804/198/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.53.5",
+    "size": 55891096
+  },
+  {
+    "path": "/snap/gnome-3-28-1804/194/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.0.so.37.53.5",
+    "size": 55891096
+  },
+  {
+    "path": "/var/cache/apt/srcpkgcache.bin",
+    "size": 55847720
+  },
+  {
+    "path": "/home/mark/Documentos/MK-Libros/BI/Blockchain-use-cases-and-adoption-1698752578220.pdf",
+    "size": 55680218
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libwabt_sys-28541a11b1807246.rlib",
+    "size": 55575676
+  },
+  {
+    "path": "/var/lib/plocate/plocate.db",
+    "size": 53785769
+  },
+  {
+    "path": "/home/mark/.rusty-spectre/spectre-mainnet/logs/rusty-spectre.log",
+    "size": 53707097
+  },
+  {
+    "path": "/opt/usbbkp/Imágenes/staygoldcrypto/Crypto/halcon-y-la-iguana.mp4",
+    "size": 53435146
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/vadimcn.vscode-lldb-1.11.0-linux-x64",
+    "size": 52944882
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/build/wabt-sys-48509d115ea6b5e6/out/build/libwabt.a",
+    "size": 52906888
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/learn-rust/lerus/target/debug/build/wabt-sys-c25de25692613007/out/build/libwabt.a",
+    "size": 52906424
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/@swc-core-linux-x64-gnu-npm-1.7.14-e562e06737-10c0.zip",
+    "size": 51935050
+  },
+  {
+    "path": "/usr/local/android-studio/lib/idea.jar",
+    "size": 51194837
+  },
+  {
+    "path": "/home/mark/.cache/Google/AndroidStudio4.2/caches/content.dat.storageData",
+    "size": 50858942
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/juanblanco.solidity-0.0.179",
+    "size": 50337629
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/e3/05/98eff3ac49a24e38abccb2ed537b2964bbbbcac93ba872f0cb4d942ad1362ff4e8e26185adeb73e21359d3b999ea43844fbcc13b5da8bef5e9e888dd16ae",
+    "size": 50269211
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-musl-14.2.13-df5ca922fa1e1ee81b15a06a2d3d3ace0efd2bd7-integrity/node_modules/@next/swc-linux-x64-musl/.yarn-tarball.tgz",
+    "size": 50269211
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-musl-14.2.14-1565caf6fa77c3280d8b05ffc8c542ff144a4855-integrity/node_modules/@next/swc-linux-x64-musl/.yarn-tarball.tgz",
+    "size": 50269046
+  },
+  {
+    "path": "/home/mark/Escritorio/mto/LineageOS/moto e WPMan/Android/data/com.google.android.googlequicksearchbox/files/download_cache/soda-en-US-v1001.zip",
+    "size": 50049419
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/7/usr/lib/x86_64-linux-gnu/libQt5WebKit.so.5.212.0",
+    "size": 49900904
+  },
+  {
+    "path": "/snap/kf5-5-104-qt-5-15-8-core22/9/usr/lib/x86_64-linux-gnu/libQt5WebKit.so.5.212.0",
+    "size": 49900904
+  },
+  {
+    "path": "/snap/gnome-3-34-1804/93/usr/lib/librsvg-2.so.2.44.17",
+    "size": 49642528
+  },
+  {
+    "path": "/snap/gnome-3-34-1804/90/usr/lib/librsvg-2.so.2.44.17",
+    "size": 49642528
+  },
+  {
+    "path": "/snap/gnome-3-28-1804/198/usr/lib/x86_64-linux-gnu/libLLVM-4.0.so.1",
+    "size": 49557200
+  },
+  {
+    "path": "/snap/gnome-3-28-1804/194/usr/lib/x86_64-linux-gnu/libLLVM-4.0.so.1",
+    "size": 49557200
+  },
+  {
+    "path": "/home/mark/Descargas/live-usb-maker-qt-19.11.02.x86_64.AppImage",
+    "size": 49291304
+  },
+  {
+    "path": "/home/mark/.local/share/Google/AndroidStudio4.2/Kotlin/kotlinc/lib/kotlin-compiler.jar",
+    "size": 49010851
+  },
+  {
+    "path": "/home/mark/Descargas/live-usb-maker-qt-19.11.02.x86_64.AppImage.tar.gz",
+    "size": 48851061
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.80.0-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcore-fd707bd9d5d3d672.rlib",
+    "size": 48350322
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/Kotlin/kotlinc/lib/kotlin-compiler.jar",
+    "size": 47824043
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.81-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcore-500f37ee5bcf0ffe.rlib",
+    "size": 47806898
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcore-500f37ee5bcf0ffe.rlib",
+    "size": 47806898
+  },
+  {
+    "path": "/usr/local/android-studio/bin/clang/linux/clangd",
+    "size": 47396937
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/@swc-core-linux-x64-gnu-npm-1.3.100-d30180f514-10c0.zip",
+    "size": 47287203
+  },
+  {
+    "path": "/home/mark/apps/treal/repositorio/TREAL/training/samples/STGC-Dapp-t/node_modules/@swc/core-linux-x64-gnu/swc.linux-x64-gnu.node",
+    "size": 47285360
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/11b1f177c38cb5b7/objencap.ipch",
+    "size": 47120384
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libQt5WebKit.so.5.212.0",
+    "size": 46949960
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-musl-14.2.13-b13180645865b120591db2f1e831743ebc02ab36-integrity/node_modules/@next/swc-linux-arm64-musl/.yarn-tarball.tgz",
+    "size": 46425713
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-musl-14.2.14-da2ae16a24bb2b2a46447154e95da85c557ab09a-integrity/node_modules/@next/swc-linux-arm64-musl/.yarn-tarball.tgz",
+    "size": 46424749
+  },
+  {
+    "path": "/home/mark/.degit/github/gear-foundation/dapps/7243c3fa04f6c6888fcc463604035ffe50668183.tar.gz",
+    "size": 46360793
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/redhat.java-1.35.1-linux-x64/jre/17.0.12-linux-x86_64/lib/modules",
+    "size": 46322224
+  },
+  {
+    "path": "/home/mark/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.5.10/9c35134a025cab7a1e6eee0d87d241c2f30c1218/kotlin-compiler-embeddable-1.5.10.jar",
+    "size": 46314547
+  },
+  {
+    "path": "/var/lib/snapd/snaps/snapd_22991.snap",
+    "size": 46280704
+  },
+  {
+    "path": "/var/log/syslog.1",
+    "size": 46142647
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/2aa4e9a41d7e23a451aa7f5100498794/fastutil-8.4.0.jar",
+    "size": 46073531
+  },
+  {
+    "path": "/home/mark/.config/BraveSoftware/Brave-Browser/Default/publisher_info_db",
+    "size": 45744128
+  },
+  {
+    "path": "/home/mark/Imágenes/Mk.zip",
+    "size": 45679237
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/rust-lang.rust-analyzer-0.3.2162-linux-x64/server/rust-analyzer",
+    "size": 45619816
+  },
+  {
+    "path": "/usr/lib/python3/dist-packages/fitz/_fitz.cpython-312-x86_64-linux-gnu.so",
+    "size": 45016584
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/solana-ledger-tool",
+    "size": 44965240
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-b0377bf77ca56ca3db7a339f69f8e8ccb1433904/solana-release/bin/solana-ledger-tool",
+    "size": 44961776
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/android/lib/sdk-tools.jar",
+    "size": 44790794
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/o_cebb717b780ae6fded2ce5e809edb3f5/sdk-tools.jar",
+    "size": 44790794
+  },
+  {
+    "path": "/home/mark/Documentos/aa-revisar/StableFun-20230512T074044Z-001.zip",
+    "size": 44765013
+  },
+  {
+    "path": "/usr/bin/mutool",
+    "size": 44735344
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/solana-ledger-tool",
+    "size": 44680192
+  },
+  {
+    "path": "/usr/share/sounds/sf2/Buskmans_Holiday_LV2.sf2",
+    "size": 44513548
+  },
+  {
+    "path": "/usr/local/android-studio/bin/clang/linux/clang-tidy",
+    "size": 44486880
+  },
+  {
+    "path": "/home/mark/Documentos/MK-Libros/mysql/mysql-refman-8.0-en.pdf",
+    "size": 44365393
+  },
+  {
+    "path": "/opt/usbbkp/MK-Libros/mysql/mysql-refman-8.0-en.pdf",
+    "size": 44365393
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/server-production/19.pack",
+    "size": 44362112
+  },
+  {
+    "path": "/opt/usbbkp/isos/subir/fucsia2.png",
+    "size": 44312412
+  },
+  {
+    "path": "/opt/usbbkp/Videos/MM-Asume-2015.mp4",
+    "size": 44202791
+  },
+  {
+    "path": "/snap/firefox/5187/usr/lib/firefox/browser/omni.ja",
+    "size": 43998003
+  },
+  {
+    "path": "/snap/firefox/5091/usr/lib/firefox/browser/omni.ja",
+    "size": 43709148
+  },
+  {
+    "path": "/opt/usbbkp/isos/subir/yellow.png",
+    "size": 43657510
+  },
+  {
+    "path": "/usr/bin/muraster",
+    "size": 43649200
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/server-production/index.pack",
+    "size": 43648340
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/server-production/index.pack.old",
+    "size": 43648310
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/solana-ledger-tool",
+    "size": 43516216
+  },
+  {
+    "path": "/opt/usbbkp/Imágenes/staygoldcrypto/Crypto/video-pato.mp4",
+    "size": 43242019
+  },
+  {
+    "path": "/home/mark/.config/Code/User/workspaceStorage/1c14dd83f66205607e931e793d9322aa/ms-vscode.cpptools/.browse.VC.db",
+    "size": 43212800
+  },
+  {
+    "path": "/opt/usbbkp/Descargas/zips/wp-smart-contracts.1.3.9.zip",
+    "size": 43202329
+  },
+  {
+    "path": "/opt/usbbkp/weblab/3d/three.js/examples/models/ifc/rac_advanced_sample_project.ifc",
+    "size": 42831859
+  },
+  {
+    "path": "/opt/usbbkp/isos/subir/verde2.png",
+    "size": 42249082
+  },
+  {
+    "path": "/opt/usbbkp/isos/subir/EYESW.png",
+    "size": 42190234
+  },
+  {
+    "path": "/home/mark/code/nodejs/solana-pay/.next/cache/webpack/client-development/7.pack",
+    "size": 42122677
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/69/57/3b9b860bed58a246fed23972b7469957cce11efea433440e51dafa576e81c006cdf0f2fb45b25193cfee6d2a24335949939813555b451076190a44e46618",
+    "size": 41910536
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-gnu-14.2.13-8cb8480dfeee512648e4e08c2095aac0461b876f-integrity/node_modules/@next/swc-linux-x64-gnu/.yarn-tarball.tgz",
+    "size": 41910536
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-gnu-14.2.14-635c62109b9cf0464e6322955a36931ebb9ed3e2-integrity/node_modules/@next/swc-linux-x64-gnu/.yarn-tarball.tgz",
+    "size": 41909944
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/client-production/index.pack",
+    "size": 41820190
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/client-production/index.pack.old",
+    "size": 41819615
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/nightly-2023-09-18-x86_64-unknown-linux-gnu/bin/cargo",
+    "size": 41665808
+  },
+  {
+    "path": "/home/mark/.config/discord/0.0.72/modules/discord_krisp/discord_krisp.node",
+    "size": 41618520
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-x64-msvc-14.2.13-5a920eea82a58affa6146192586716cec6c87fed-integrity/node_modules/@next/swc-win32-x64-msvc/.yarn-tarball.tgz",
+    "size": 41485880
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-x64-msvc-14.2.14-9d6446b3a8d5e67e199049d59ce7c0b8bd33ab51-integrity/node_modules/@next/swc-win32-x64-msvc/.yarn-tarball.tgz",
+    "size": 41484671
+  },
+  {
+    "path": "/home/mark/snap/firefox/common/.mozilla/firefox/thnr8aoy.default-release/storage/default/https+++seriesflix.la/cache/morgue/20/{f1f45434-3a60-45c5-9c46-9ae5edf7f514}.final",
+    "size": 41157133
+  },
+  {
+    "path": "/home/mark/.mozilla/firefox/thnr8aoy.default-release/storage/default/https+++seriesflix.la/cache/morgue/20/{f1f45434-3a60-45c5-9c46-9ae5edf7f514}.final",
+    "size": 41157133
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v10.19.0/bin/node",
+    "size": 41122344
+  },
+  {
+    "path": "/opt/lampp/lib/instantclient-11.2.0.3.0/libclntsh.so.11.1",
+    "size": 40931036
+  },
+  {
+    "path": "/var/lib/snapd/snaps/snapd_21759.snap",
+    "size": 40714240
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/typescript-patch-3914634c3a-10c0.zip",
+    "size": 40674111
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/1a/e4/04dffd446cad5a1f617355bed70854617867ee848e94e92f4adadd4f23a433b3f19f4f4ef55c9700f280343367d4c853b378998fd711ee71a33df81136f9",
+    "size": 40654385
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/typescript-npm-5.2.2-01717e9f84-10c0.zip",
+    "size": 40628943
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/de/98/e16359f11b9893f2206698e9413475ac4ededc13644419c9dcc3a5ee1d287662e5ee3df6044f2065bf4f22a57ba63d570f98de9733c916d0e1b6bd1ae4ff",
+    "size": 40628670
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/5a/47/8c7b9c5df6a1b6706af2d60784d022701e94c8dca0abc837dc536fb0658c47fdadc2824469bc7afbe5817acde2d413863d558b81f2c479814b5e1cd9853f",
+    "size": 40500095
+  },
+  {
+    "path": "/home/mark/.local/share/krita/resourcecache.sqlite",
+    "size": 40374272
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/258288f5990589f8/datatypes.ipch",
+    "size": 40296448
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/9a665decd337370d/helloworld.ipch",
+    "size": 40296448
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/7c80898c9dd678a1/friendfn.ipch",
+    "size": 40296448
+  },
+  {
+    "path": "/home/mark/.gradle/wrapper/dists/gradle-6.7.1-bin/bwlcbys1h7rz3272sye1xwiv6/gradle-6.7.1/lib/kotlin-compiler-embeddable-1.3.72-patched-for-gradle-6.7.1.jar",
+    "size": 40209524
+  },
+  {
+    "path": "/usr/local/lib/python3.8/dist-packages/tensorflow/libtensorflow_framework.so.2",
+    "size": 40180768
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/zobo.php-intellisense-1.3.3/vendor/felixfbecker/language-server/stubs",
+    "size": 40151110
+  },
+  {
+    "path": "/home/mark/Descargas/spectre/bin/spectred",
+    "size": 40117680
+  },
+  {
+    "path": "/usr/share/sounds/sf3/MuseScore_General_Lite.sf3",
+    "size": 39978561
+  },
+  {
+    "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/wasm-projects/debug/debug/deps/libparity_scale_codec_derive-ce53cc7be1ebecdf.so",
+    "size": 39857512
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-gnu-13.4.4-bd42590950a01957952206f89cf5622e7c9e4196-integrity/node_modules/@next/swc-linux-x64-gnu/.yarn-tarball.tgz",
+    "size": 39814742
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-x64-musl-13.4.4-907d81feb1abec3daec0ecb61e3f39b56e7aeafe-integrity/node_modules/@next/swc-linux-x64-musl/.yarn-tarball.tgz",
+    "size": 39736636
+  },
+  {
+    "path": "/home/mark/Escritorio/mto/LineageOS/moto e WPMan/Camera/VID_20210410_184412847.mp4",
+    "size": 39602590
+  },
+  {
+    "path": "/usr/local/lib/python3.8/dist-packages/clang/native/libclang.so",
+    "size": 39578264
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/android-layoutlib/lib/layoutlib.jar",
+    "size": 39472915
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/typescript-patch-8b01b1c289-10c0.zip",
+    "size": 39265860
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/typescript-npm-5.0.2-66dd4bd4f0-10c0.zip",
+    "size": 39220712
+  },
+  {
+    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/kbfnbcaeplbcioakkpcpgfkobkghlhen_1.21e9ecb249f33a74dc22a132250ae583ed33d7c40d14128b27e4124cd68bcfd2",
+    "size": 39192164
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/android-layoutlib-native/lib/layoutlib_native.jar",
+    "size": 39156915
+  },
+  {
+    "path": "/var/lib/snapd/snaps/gh_502.snap",
+    "size": 38797312
+  },
+  {
+    "path": "/snap/gh/502/gh",
+    "size": 38795863
+  },
+  {
+    "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/server-production/11.pack",
+    "size": 38728156
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/server-production/10.pack",
+    "size": 38592481
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/10.pack",
+    "size": 38592481
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/server-production/19.pack",
+    "size": 38589424
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/19.pack",
+    "size": 38589424
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/server-production/27.pack",
+    "size": 38587799
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/27.pack",
+    "size": 38587799
+  },
+  {
+    "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/wasm-projects/debug/debug/deps/libscale_info_derive-93c3dd6f72a6648f.so",
+    "size": 38433304
+  },
+  {
+    "path": "/var/cache/apt-xapian-index/index.2/postlist.glass",
+    "size": 38412288
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-x64-14.2.14-25800213c4dc0f8cd765c88073d28a3144698e31-integrity/node_modules/@next/swc-darwin-x64/.yarn-tarball.tgz",
+    "size": 38358517
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-x64-14.2.13-1d4821d54bb01dacc6a6c32408f8468a4f4af269-integrity/node_modules/@next/swc-darwin-x64/.yarn-tarball.tgz",
+    "size": 38358346
+  },
+  {
+    "path": "/var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_noble_universe_binary-i386_Packages",
+    "size": 38325563
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-gnu-14.2.14-9c66bd1287d0c3633e7bf354f9c01e1b79747615-integrity/node_modules/@next/swc-linux-arm64-gnu/.yarn-tarball.tgz",
+    "size": 38298151
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-gnu-14.2.13-79d9af8d3408df9990c8911889eca1ca6a308f19-integrity/node_modules/@next/swc-linux-arm64-gnu/.yarn-tarball.tgz",
+    "size": 38297545
+  },
+  {
+    "path": "/home/mark/.local/share/krita/resourcecache.sqlite.1~",
+    "size": 37974016
+  },
+  {
+    "path": "/var/lib/snapd/snaps/heroku_4092.snap",
+    "size": 37912576
+  },
+  {
+    "path": "/home/mark/.npm/_cacache/content-v2/sha512/3f/70/abe58e4858f4c3ea5606c5894c7a995b1b6d3b6ab78fffbb266208fe6b038a79d88ba5163e9704d7179e6c6f894faee5b1366578226a64945c026d79b13b",
+    "size": 37910781
+  },
+  {
+    "path": "/home/mark/.yarn/berry/cache/wasmcurves-npm-0.2.2-20b5388ad2-10c0.zip",
+    "size": 37869732
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-x64-msvc-13.4.4-faab69239f8a9d0be7cd473e65f5a07735ef7b0e-integrity/node_modules/@next/swc-win32-x64-msvc/.yarn-tarball.tgz",
+    "size": 37686727
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.26.so",
+    "size": 37551664
+  },
+  {
+    "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/wasm-projects/debug/debug/deps/libimpl_trait_for_tuples-40b74295fbebdfc6.so",
+    "size": 37314944
+  },
+  {
+    "path": "/snap/gnome-42-2204/176/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+    "size": 37257032
+  },
+  {
+    "path": "/snap/gnome-42-2204/172/usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+    "size": 37257032
+  },
+  {
+    "path": "/home/mark/.vscode/extensions/ms-vscode.cpptools-1.22.10-linux-x64/bin/cpptools",
+    "size": 37203536
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-arm64-14.2.14-6dde2dac699dfe948b527385f2b350b3151989f4-integrity/node_modules/@next/swc-darwin-arm64/.yarn-tarball.tgz",
+    "size": 37195483
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-arm64-14.2.13-76f08d78360c4d27d444df7f35a56f59a48f4808-integrity/node_modules/@next/swc-darwin-arm64/.yarn-tarball.tgz",
+    "size": 37194208
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/server-production/22.pack",
+    "size": 36599456
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/22.pack",
+    "size": 36599456
+  },
+  {
+    "path": "/usr/lib/gcc/x86_64-w64-mingw32/13-posix/cc1plus",
+    "size": 36483568
+  },
+  {
+    "path": "/home/mark/snap/firefox/common/.mozilla/firefox/thnr8aoy.default-release/webappsstore.sqlite",
+    "size": 36405248
+  },
+  {
+    "path": "/home/mark/.mozilla/firefox/thnr8aoy.default-release/webappsstore.sqlite",
+    "size": 36405248
+  },
+  {
+    "path": "/usr/libexec/gcc/x86_64-linux-gnu/13/cc1plus",
+    "size": 36328512
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libcranelift_codegen-603d57e7d5baa43c.rlib",
+    "size": 36251400
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/server-production/21.pack",
+    "size": 36217409
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/21.pack",
+    "size": 36217409
+  },
+  {
+    "path": "/home/mark/.cache/vscode-cpptools/ipch/e3ad2d69ff957b5f/arith_uint256.ipch",
+    "size": 36122624
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-gnu-13.4.4-f2e071f38e8a6cdadf507cc5d28956f73360d064-integrity/node_modules/@next/swc-linux-arm64-gnu/.yarn-tarball.tgz",
+    "size": 36116367
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/client-production/11.pack",
+    "size": 36093947
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/server-production/24.pack",
+    "size": 36069398
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/server-production/24.pack",
+    "size": 36069398
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-linux-arm64-musl-13.4.4-23bf75c544e54562bc24ec1be036e4bd9cf89e2c-integrity/node_modules/@next/swc-linux-arm64-musl/.yarn-tarball.tgz",
+    "size": 35839765
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-x64-13.4.4-5fe01c65c80fcb833c8789fd70f074ea99893864-integrity/node_modules/@next/swc-darwin-x64/.yarn-tarball.tgz",
+    "size": 35774286
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rust-analyzer",
+    "size": 35741120
+  },
+  {
+    "path": "/home/mark/.local/share/Google/AndroidStudio4.2/Kotlin/lib/kotlin-plugin.jar",
+    "size": 35155011
+  },
+  {
+    "path": "/opt/usbbkp/solana/solanadevlab/example2/target/debug/deps/libanchor_attribute_interface-1bf09980613897ef.so",
+    "size": 35147368
+  },
+  {
+    "path": "/usr/bin/web-os-dev-manager",
+    "size": 35101640
+  },
+  {
+    "path": "/opt/usbbkp/solana/solanadevlab/example2/target/debug/deps/libanchor_attribute_account-09c85e7ec20dfc76.so",
+    "size": 35088664
+  },
+  {
+    "path": "/opt/usbbkp/Videos/No estan solos macri le da vuelta.mp4",
+    "size": 35060089
+  },
+  {
+    "path": "/snap/firefox/5187/usr/lib/firefox/omni.ja",
+    "size": 34993446
+  },
+  {
+    "path": "/home/mark/.nvm/versions/node/v8.10.0/bin/node",
+    "size": 34895869
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-darwin-arm64-13.4.4-8c14083c2478e2a9a8d140cce5900f76b75667ff-integrity/node_modules/@next/swc-darwin-arm64/.yarn-tarball.tgz",
+    "size": 34610182
+  },
+  {
+    "path": "/opt/usbbkp/solana/solanadevlab/example2/target/debug/deps/libanchor_attribute_event-d3374d40e05b69d9.so",
+    "size": 34559872
+  },
+  {
+    "path": "/opt/usbbkp/solana/solanadevlab/example2/target/debug/deps/libanchor_attribute_error-d0d24e195d4ad1f2.so",
+    "size": 34553960
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libclang-18.so.18",
+    "size": 34551120
+  },
+  {
+    "path": "/home/mark/Descargas/spectre/rusty-spectre-v0.3.15-linux-gnu-amd64.zip",
+    "size": 34513410
+  },
+  {
+    "path": "/opt/usbbkp/solana/solanadevlab/example2/target/debug/deps/libanchor_attribute_program-08d902b7090eb1f2.so",
+    "size": 34502784
+  },
+  {
+    "path": "/snap/firefox/5091/usr/lib/firefox/omni.ja",
+    "size": 34500550
+  },
+  {
+    "path": "/opt/usbbkp/solana/solanadevlab/example2/target/debug/deps/libanchor_derive_accounts-6a812a8861d734d6.so",
+    "size": 34497488
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.80.0-x86_64-unknown-linux-gnu/lib/rustlib/wasm32-unknown-unknown/lib/libcore-5f7700eb90efd5c9.rlib",
+    "size": 34430462
+  },
+  {
+    "path": "/usr/lib/gcc/x86_64-w64-mingw32/13-posix/cc1",
+    "size": 34206512
+  },
+  {
+    "path": "/usr/libexec/gcc/x86_64-linux-gnu/13/cc1",
+    "size": 34079904
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/client-production/4.pack",
+    "size": 34039780
+  },
+  {
+    "path": "/usr/lib/gcc/x86_64-linux-gnu/12/cc1",
+    "size": 33998672
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/Kotlin/lib/kotlin-plugin.jar",
+    "size": 33985720
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/wasm32-unknown-unknown/lib/libcore-9de92983ea27c59d.rlib",
+    "size": 33964154
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/libclang-16.so.16.0.6",
+    "size": 33922688
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/iris_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/i915_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/d3d12_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/r300_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/r600_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/zink_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so",
+    "size": 33729832
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.81-x86_64-unknown-linux-gnu/bin/cargo",
+    "size": 33654096
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo",
+    "size": 33654096
+  },
+  {
+    "path": "/home/mark/Escritorio/mto/LineageOS/moto e WPMan/Camera/VID_20210410_190106284~2.mp4",
+    "size": 33409730
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/perf-libs/cuda-10.2/libcuda-crypt.so",
+    "size": 33169456
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/perf-libs/cuda-10.2/libcuda-crypt.so",
+    "size": 33169456
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/perf-libs/cuda-10.2/libcuda-crypt.so",
+    "size": 33169456
+  },
+  {
+    "path": "/usr/local/android-studio/plugins/gradle/lib/gradle-api-impldep-6.5.jar",
+    "size": 32921478
+  },
+  {
+    "path": "/home/mark/.gradle/caches/jars-8/o_5bb3a066101f6dba2259d9e50effd96d/gradle-api-impldep-6.5.jar",
+    "size": 32921478
+  },
+  {
+    "path": "/usr/bin/x86_64-w64-mingw32-lto-dump-posix",
+    "size": 32915152
+  },
+  {
+    "path": "/usr/lib/gcc/x86_64-w64-mingw32/13-posix/lto1",
+    "size": 32911056
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w/.next/cache/webpack/client-production/5.pack",
+    "size": 32891071
+  },
+  {
+    "path": "/usr/local/lib/python3.8/dist-packages/numpy.libs/libopenblas64_p-r0-742d56dc.3.20.so",
+    "size": 32876856
+  },
+  {
+    "path": "/usr/bin/x86_64-linux-gnu-lto-dump-13",
+    "size": 32825760
+  },
+  {
+    "path": "/home/mark/.rustup/toolchains/1.80.0-x86_64-unknown-linux-gnu/bin/cargo",
+    "size": 32818360
+  },
+  {
+    "path": "/usr/libexec/gcc/x86_64-linux-gnu/13/lto1",
+    "size": 32817568
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-arm64-msvc-14.2.13-8a7db6e71f526212587975f743b28e4d1cb829d1-integrity/node_modules/@next/swc-win32-arm64-msvc/.yarn-tarball.tgz",
+    "size": 32675375
+  },
+  {
+    "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-arm64-msvc-14.2.14-8df4feb3c9280155e9299f3cdfa32f3cface336a-integrity/node_modules/@next/swc-win32-arm64-msvc/.yarn-tarball.tgz",
+    "size": 32674820
+  }
+]

@@ -1,17 +1,5 @@
 [
   {
-    "path": "/home/mark/.local/share/Trash/files/Vídeos.zip",
-    "size": 877828731
-  },
-  {
-    "path": "/home/mark/Descargas/Sin confirmar 664428.crdownload",
-    "size": 476770304
-  },
-  {
-    "path": "/home/mark/Descargas/phplab.zip",
-    "size": 391041531
-  },
-  {
     "path": "/home/mark/.cargo/git/checkouts/polkadot-sdk-94df07da2390bde9/e020650/.git/objects/pack/pack-fe930888960ab94ce7e850d231afa8dcb7bc84e6.pack",
     "size": 329348441
   },
@@ -26,10 +14,6 @@
   {
     "path": "/home/mark/Imágenes/Imágenesbkp20240922.zip",
     "size": 258324249
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/3D Design/blender_manual_epub.zip",
-    "size": 233018709
   },
   {
     "path": "/home/mark/.cache/vscode-cpptools/ipch/50615c9386288fde/mapport.ipch",
@@ -484,14 +468,6 @@
     "size": 63369962
   },
   {
-    "path": "/home/mark/.config/google-chrome/Profile 6/IndexedDB/chrome-extension_aeachknmefphepccionboohckonoeemg_0.indexeddb.leveldb/MANIFEST-000263",
-    "size": 62919541
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/SP/SP.zip",
-    "size": 60445179
-  },
-  {
     "path": "/home/mark/.config/variety/Favorites/sol3048curiosityBonoraFaccin.jpg",
     "size": 59669876
   },
@@ -504,6 +480,10 @@
     "size": 59449640
   },
   {
+    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/aeachknmefphepccionboohckonoeemg_1.003bfed9b2b74d3f1aa495a4186f0cad74a12bf249af48713cdaecb48ef10769",
+    "size": 59165148
+  },
+  {
     "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/solana-test-validator",
     "size": 57770832
   },
@@ -514,14 +494,6 @@
   {
     "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/solana-test-validator",
     "size": 57145984
-  },
-  {
-    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/aeachknmefphepccionboohckonoeemg_1.d3653b36320d86a83e4d1080dd4993387452c2db51aae22560223a11c13256ef",
-    "size": 56917856
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/BI/Blockchain-use-cases-and-adoption-1698752578220.pdf",
-    "size": 55680218
   },
   {
     "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libwabt_sys-28541a11b1807246.rlib",
@@ -572,16 +544,8 @@
     "size": 50049419
   },
   {
-    "path": "/home/mark/Descargas/live-usb-maker-qt-19.11.02.x86_64.AppImage",
-    "size": 49291304
-  },
-  {
     "path": "/home/mark/.local/share/Google/AndroidStudio4.2/Kotlin/kotlinc/lib/kotlin-compiler.jar",
     "size": 49010851
-  },
-  {
-    "path": "/home/mark/Descargas/live-usb-maker-qt-19.11.02.x86_64.AppImage.tar.gz",
-    "size": 48851061
   },
   {
     "path": "/home/mark/.rustup/toolchains/1.80.0-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcore-fd707bd9d5d3d672.rlib",
@@ -662,10 +626,6 @@
   {
     "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/solana-ledger-tool",
     "size": 44680192
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/mysql/mysql-refman-8.0-en.pdf",
-    "size": 44365393
   },
   {
     "path": "/home/mark/code/web/zz/treal-co-inv/.next/cache/webpack/server-production/19.pack",
@@ -1072,6 +1032,10 @@
     "size": 31781155
   },
   {
+    "path": "/home/mark/.config/google-chrome/Profile 6/IndexedDB/chrome-extension_aeachknmefphepccionboohckonoeemg_0.indexeddb.leveldb/MANIFEST-000275",
+    "size": 31383048
+  },
+  {
     "path": "/home/mark/code/web/ss/inva/protocol-vara/.git/objects/pack/pack-54af92e00f018ba057b7e6221bb7a9b0e78b22ce.pack",
     "size": 30740315
   },
@@ -1090,26 +1054,6 @@
   {
     "path": "/home/mark/.cache/yarn/v6/npm-@next-swc-win32-ia32-msvc-13.4.4-77b2c7f7534b675d46e46301869e08d504d23956-integrity/node_modules/@next/swc-win32-ia32-msvc/.yarn-tarball.tgz",
     "size": 30265093
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/EN/initial-crypto-course-2022.pdf.zip",
-    "size": 30240780
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/SP/Curso Básico de Criptomonedas.pdf.zip",
-    "size": 30197404
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/SP/Split-de-Curso-Basico-de-Criptomonedas-pijcxo.pdf.zip",
-    "size": 30186648
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/SP/xCurso Básico de Criptomonedas.pdf",
-    "size": 30133188
-  },
-  {
-    "path": "/home/mark/Documentos/MK-Libros/cursos-by-mark/Basic-crypto-course-from-scratch-stay-gold-crypto-2022/EN/Basic-crypto-course-from-scratch-stay-gold-crypto-2022.pdf.zip",
-    "size": 30103954
   },
   {
     "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/wasm-projects/debug/debug/deps/libsyn-49b2fad317f01eb0.rlib",
@@ -1436,8 +1380,8 @@
     "size": 22712015
   },
   {
-    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/ffnbelfdoeiohenkjibnmadjiehjhajb_1.c9a29d8dc9d974d462d4f8f4078b998edf22fc5b947835e9e43b8df828709b6f",
-    "size": 22689204
+    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/ffnbelfdoeiohenkjibnmadjiehjhajb_1.0d1fe5497c99f56d7498c0a9c8d869223c5b53115074e2b5aef9f6318103bf04",
+    "size": 22690010
   },
   {
     "path": "/home/mark/.yarn/berry/cache/typescript-npm-5.6.2-f0e21b35f9-10c0.zip",
@@ -1492,12 +1436,12 @@
     "size": 21998107
   },
   {
-    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/nkbihfbeogaeaoehlefnkodbefgpgknn_1.7b7400fd33afa9ff338a29e832c0327a89d4e6cecea26d9c5b6a7eb1b5f6e575",
-    "size": 21985402
-  },
-  {
     "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/solana-gossip",
     "size": 21973568
+  },
+  {
+    "path": "/home/mark/.config/google-chrome/extensions_crx_cache/nkbihfbeogaeaoehlefnkodbefgpgknn_1.af3c43fbcada3c910ae8a513410aa76411b01826ef5cd112a2d5d7446520ba40",
+    "size": 21967388
   },
   {
     "path": "/home/mark/.yarn/berry/cache/typescript-npm-5.5.4-79ce5f60f7-10c0.zip",
@@ -1640,6 +1584,10 @@
     "size": 19758392
   },
   {
+    "path": "/home/mark/.config/google-chrome/Profile 6/Service Worker/ScriptCache/7b5fb5b1483213a5_1",
+    "size": 19758227
+  },
+  {
     "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libwebc-8221fdd4df875af3.rlib",
     "size": 19739308
   },
@@ -1706,10 +1654,6 @@
   {
     "path": "/home/mark/.yarn/berry/cache/lucide-react-npm-0.263.1-4b8659db95-10c0.zip",
     "size": 19271780
-  },
-  {
-    "path": "/home/mark/.config/google-chrome/Profile 6/Service Worker/ScriptCache/b8a8a89bc8f66b3e_1",
-    "size": 19261931
   },
   {
     "path": "/home/mark/.cache/Google/AndroidStudio4.2/index/stubs/Stubs.storage.values",
@@ -1788,10 +1732,6 @@
     "size": 18367928
   },
   {
-    "path": "/home/mark/Documentos/MK-Libros/pdfs/Java Interview Questions.pdf",
-    "size": 18367928
-  },
-  {
     "path": "/home/mark/Escritorio/Migracion/adminsgc_wp833.sql",
     "size": 18325343
   },
@@ -1852,16 +1792,16 @@
     "size": 17918528
   },
   {
+    "path": "/home/mark/.config/google-chrome/Safe Browsing/UrlSoceng.store.4_13375092569442865",
+    "size": 17901732
+  },
+  {
     "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/build/sails-idl-parser-268010256c4c7070/build_script_build-268010256c4c7070",
     "size": 17886072
   },
   {
     "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/build/sails-idl-parser-268010256c4c7070/build-script-build",
     "size": 17886072
-  },
-  {
-    "path": "/home/mark/.config/google-chrome/Safe Browsing/UrlSoceng.store.4_13374934823783499",
-    "size": 17879784
   },
   {
     "path": "/home/mark/apps/treal/mvp/training/Hello-World/target/release/build/hello-world-5ad4742b907bbed2/build-script-build",
@@ -1878,6 +1818,10 @@
   {
     "path": "/home/mark/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlSoceng.store.4_13374316428379281",
     "size": 17804308
+  },
+  {
+    "path": "/home/mark/.cache/google-chrome/Default/Code Cache/js/a62352476210e8c6_0",
+    "size": 17683920
   },
   {
     "path": "/home/mark/.yarn/berry/cache/video.js-npm-8.17.3-f79a9b1fee-10c0.zip",
@@ -1998,5 +1942,61 @@
   {
     "path": "/home/mark/.config/microsoft-edge/Default/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/a75ea043-b42b-433b-8382-b08e0c8fd527/945b70008186a990_0",
     "size": 16696472
+  },
+  {
+    "path": "/home/mark/snap/firefox/common/.mozilla/firefox/thnr8aoy.default-release/storage/ls-archive.sqlite",
+    "size": 16678912
+  },
+  {
+    "path": "/home/mark/.mozilla/firefox/thnr8aoy.default-release/storage/ls-archive.sqlite",
+    "size": 16678912
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libframe_support_procedural-1f46be9cc0d38442.so",
+    "size": 16647936
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2024.10.1",
+    "size": 16638149
+  },
+  {
+    "path": "/home/mark/code/web/xx/treal-w-mix/.next/cache/webpack/client-production/0.pack",
+    "size": 16617886
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/cargo-build-bpf",
+    "size": 16614600
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-b0377bf77ca56ca3db7a339f69f8e8ccb1433904/solana-release/bin/cargo-build-bpf",
+    "size": 16613864
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-9a07547352645fb20e038e139f8536710b1f36e6/solana-release/bin/solana-faucet",
+    "size": 16504328
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/stable-b0377bf77ca56ca3db7a339f69f8e8ccb1433904/solana-release/bin/solana-faucet",
+    "size": 16504104
+  },
+  {
+    "path": "/home/mark/.config/Code/CachedExtensionVSIXs/rust-lang.rust-analyzer-0.3.2162-linux-x64",
+    "size": 16493579
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/standards/extended-vft/target/debug/deps/libwasmparser-33f8d673f79647e3.rlib",
+    "size": 16484180
+  },
+  {
+    "path": "/home/mark/apps/rst/mk/learn-rust/lerus/target/debug/deps/libframe_support_procedural-b31d7c3c91648817.so",
+    "size": 16350392
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/beta-54c405a7876d83a23b0e113208c943e2a3bb3c7b/solana-release/bin/spl-token",
+    "size": 16338600
+  },
+  {
+    "path": "/home/mark/.local/share/solana/install/releases/1.10.8/solana-release/bin/spl-token",
+    "size": 16338600
   }
 ]
