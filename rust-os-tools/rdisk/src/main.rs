@@ -4,6 +4,7 @@ use std::io::{self, Write};
 use std::path::Path;
 use std::time::Instant;
 use walkdir::WalkDir;
+use std::env;
 
 #[derive(Serialize)]
 struct FileInfo {
@@ -77,7 +78,26 @@ fn save_to_json<P: AsRef<Path> + Clone>(data: &[FileInfo], file_path: P) -> std:
 }
 
 fn main() {
-    let directory = "/home"; // Ruta del directorio a escanear, puedes cambiarla
+
+    // Obtener los argumentos de línea de comandos
+    let args: Vec<String> = env::args().collect();
+
+    // Verificar si se proporcionó un argumento
+    if args.len() < 2 {
+        eprintln!("Uso: {} <ruta>", args[0]);
+        std::process::exit(1);
+    }
+
+    let path = &args[1];
+
+    // Validar la ruta
+    if !Path::new(path).exists() {
+        eprintln!("La ruta especificada no existe: {}", path);
+        std::process::exit(1);
+    }
+
+//    let mut directory = "/home"; // Ruta del directorio a escanear, puedes cambiarla
+    let directory = path; // Ruta del directorio a escanear, puedes cambiarla
     let output_file = "largest_files.json"; // Nombre del archivo de salida
     let file_limit = 500;
 
